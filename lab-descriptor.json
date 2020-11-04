@@ -1,0 +1,51 @@
+{
+    "broadArea": {
+        "name": "Mechanical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    },
+    "lab": "3D Printing Virtual Simulation Lab",
+    "phase": 3,
+    "collegeName": "DEI",
+    "baseUrl": "3d-dei.vlabs.ac.in",
+    "introduction": "Welcome to the 3D Printing Virtual Simulation Lab. 3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced cross-section of the object. 3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine. 3D printing enables you to produce complex shapes using less material than traditional manufacturing methods." ,
+    "experiments": [
+    {
+      "name": "FDM Anatomy of 3D Printer Machine",
+      "short-name": "fdm-anatomy",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/3d-printing-dei/fdm-anatomy-dei/tree/developer",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Cartesian 3D Printer Machine",
+      "short-name": "cartesian",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/3d-printing-dei/cartesian-system-dei/tree/developer",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Delta 3D Printer Machine",
+      "short-name": "delta",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/3d-printing-dei/delta-3dmachine-dei/tree/developer",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Polar 3D Printer Machine",
+      "short-name": "polar",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/3d-printing-dei/polar-3dmachine-dei/tree/developer",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Mechanical Engineering, Electrical Engineering and Civil Engineering."],
+        "PG": ["MS/Ph. D. Beginners in Mechanical Engineering, Electrical Engineering and Civil Engineering."]
+    },
+    "objective": " 1  Students will be able to  Identify and describe the function of different parts of the 3D printer. 2. Students will be able to: Use the simulator & assemble the different parts of the 3D printer. 3. Students will be able to: Realize the operation of the 3D printer for different parameters given by the student and can check the effect of the different parameter on the performance of the printer. 4. Students will be able to: Build a given 3D printer by using the different parts available with the students. This will help them to learn the assembly without actually destructing the parts. 5. Students will be able to: answer the questions related to part functioning and the assembly of the 3D printer ",
+    "courseAlignment": {
+        "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
+        "universities": ["Universities with Mechanical Engineering"]
+    }
+}
