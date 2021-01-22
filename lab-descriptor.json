@@ -6,7 +6,7 @@
   "lab": "3D Printing Virtual Simulation Lab",
   "phase": 3,
   "deployLab": true,
-  "collegeName": "DEI",
+  "collegeName": "DLBG",
   "baseUrl": "3dp-dei.vlabs.ac.in",
   "introduction": "Welcome to the 3D Printing Virtual Simulation Lab. 3D printing or additive manufacturing is a process of making three dimensional solid objects from a digital file. The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced cross-section of the object. 3D printing is the opposite of subtractive manufacturing which is cutting out / hollowing out a piece of metal or plastic with for instance a milling machine. 3D printing enables you to produce complex shapes using less material than traditional manufacturing methods.",
   "experiments": [
@@ -52,5 +52,5 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v0.0.1"
+  "version": "v0.0.2"
 }
