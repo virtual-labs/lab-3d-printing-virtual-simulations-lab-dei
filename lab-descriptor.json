@@ -14,28 +14,28 @@
       "name": "FDM Anatomy of 3D Printer Machine",
       "short-name": "simulation-anatomy-fdm",
       "repo": "https://github.com/virtual-labs/exp-simulation-anatomy-fdm-dei",
-      "tag": "v1.0.0",
-      "deploy": true
+      "tag": "v1.0.2",
+      "deploy": false
     },
     {
       "name": "Cartesian 3D Printer Machine",
       "short-name": "simulation-cartesian-system",
       "repo": "https://github.com/virtual-labs/exp-simulation-cartesian-system-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Polar 3D Printing machine",
       "short-name": "simulation-of-polar-machine",
       "repo": "https://github.com/virtual-labs/exp-simulation-of-polar-machine-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Delta 3D Printing machine",
       "short-name": "simulation-of-delta-machine",
       "repo": "https://github.com/virtual-labs/exp-simulation-of-delta-machine-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
@@ -52,9 +52,9 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v0.0.3",
-  "exp_name": "FDM Anatomy of 3D Printer Machine",
-  "exp_short_name": "simulation-anatomy-fdm",
+  "version": "v1.0.5",
+  "exp_name": "Delta 3D Printing machine",
+  "exp_short_name": "simulation-of-delta-machine",
   "production": true,
   "current_item": {
     "item": "feedback",
