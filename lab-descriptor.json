@@ -37,7 +37,15 @@
       "repo": "https://github.com/virtual-labs/exp-simulation-of-delta-machine-dei",
       "tag": "v1.0.2",
       "deploy": true
+    },
+    {
+      "name": "Simulation of Stereolithography Process",
+      "short-name": "simulation-stereolithography-process",
+      "repo": "https://github.com/virtual-labs/exp-simulation-stereolithography-process-dei",
+      "tag": "v1.0.0",
+      "deploy": true
     }
+
   ],
   "targetAudience": {
     "UG": [
@@ -52,7 +60,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.0.6",
+  "version": "v1.0.7",
   "exp_name": "Delta 3D Printing machine",
   "exp_short_name": "simulation-of-delta-machine",
   "production": true,
