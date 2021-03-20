@@ -51,6 +51,13 @@
       "repo": "https://github.com/virtual-labs/exp-simulation-modelling-process-dei",
       "tag": "v1.0.0",
       "deploy": true
+    },
+    {
+      "name": "Simulation of Selective Laser Sintering (Non-Metal) Process",
+      "short-name": "simulation-laser-sintering-nonmetal",
+      "repo": "https://github.com/virtual-labs/exp-simulation-laser-sintering-nonmetal-dei.git",
+      "tag": "v1.0.0",
+      "deploy": true
     }
 
   ],
@@ -67,9 +74,9 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.0.8",
-  "exp_name": "Simulation of Stereolithography Process",
-  "exp_short_name": "simulation-stereolithography-process",
+  "version": "v1.1.0",
+  "exp_name": "Simulation of Fused Deposition Modelling (FDM) Process",
+  "exp_short_name": "simulation-modelling-process",
   "production": true,
   "current_item": {
     "item": "feedback",
