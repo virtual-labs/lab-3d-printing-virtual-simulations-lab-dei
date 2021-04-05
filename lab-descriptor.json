@@ -58,6 +58,13 @@
       "repo": "https://github.com/virtual-labs/exp-simulation-laser-sintering-nonmetal-dei.git",
       "tag": "v1.0.1",
       "deploy": true
+    },
+    {
+      "name": "Simulation of Selective Laser Sintering (Metal) Process",
+      "short-name": "simulation-laser-sintering-metal",
+      "repo": "https://github.com/virtual-labs/exp-simulation-laser-sintering-metal-dei.git",
+      "tag": "v1.0.0",
+      "deploy": true
     }
   ],
   "targetAudience": {
@@ -73,7 +80,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.2.0",
+  "version": "v1.2.1",
   "exp_name": "Simulation of Selective Laser Sintering (Non-Metal) Process",
   "exp_short_name": "simulation-laser-sintering-nonmetal",
   "production": true,
