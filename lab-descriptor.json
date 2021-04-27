@@ -14,42 +14,42 @@
       "name": "FDM Anatomy of 3D Printer Machine",
       "short-name": "simulation-anatomy-fdm",
       "repo": "https://github.com/virtual-labs/exp-simulation-anatomy-fdm-dei",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": false
     },
     {
       "name": "Cartesian 3D Printer Machine",
       "short-name": "simulation-cartesian-system",
       "repo": "https://github.com/virtual-labs/exp-simulation-cartesian-system-dei",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Polar 3D Printing machine",
       "short-name": "simulation-of-polar-machine",
       "repo": "https://github.com/virtual-labs/exp-simulation-of-polar-machine-dei",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Delta 3D Printing machine",
       "short-name": "simulation-of-delta-machine",
       "repo": "https://github.com/virtual-labs/exp-simulation-of-delta-machine-dei",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Simulation of Stereolithography Process",
       "short-name": "simulation-stereolithography-process",
       "repo": "https://github.com/virtual-labs/exp-simulation-stereolithography-process-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Simulation of Fused Deposition Modelling (FDM) Process",
       "short-name": "simulation-modelling-process",
       "repo": "https://github.com/virtual-labs/exp-simulation-modelling-process-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -63,14 +63,14 @@
       "name": "Simulation of Selective Laser Sintering (Metal) Process",
       "short-name": "simulation-laser-sintering-metal",
       "repo": "https://github.com/virtual-labs/exp-simulation-laser-sintering-metal-dei.git",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Simulation of Laminated object manufacturing Process",
       "short-name": "simulation-laminated-object",
       "repo": "https://github.com/virtual-labs/exp-simulation-laminated-object-dei.git",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
