@@ -77,7 +77,7 @@
       "name": "Simulation of Powder Binding / Jetting Process",
       "short-name": "simulation-powder-binding",
       "repo": "https://github.com/virtual-labs/exp-simulation-powder-binding-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -94,9 +94,9 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.3.0",
-  "exp_name": "Simulation of Laminated object manufacturing Process",
-  "exp_short_name": "simulation-laminated-object",
+  "version": "v1.4.0",
+  "exp_name": "Simulation of Powder Binding / Jetting Process",
+  "exp_short_name": "simulation-powder-binding",
   "production": true,
   "current_item": {
     "item": "feedback",
