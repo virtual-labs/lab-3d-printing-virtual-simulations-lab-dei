@@ -84,7 +84,7 @@
       "name": "Simulation of Post-processing in Additive manufacturing",
       "short-name": "simulation-post-processing",
       "repo": "https://github.com/virtual-labs/exp-simulation-post-processing-dei",
-      "tag": "v1.0.1",
+      "tag": "v1.1.0",
       "deploy": true
     }
   ],
