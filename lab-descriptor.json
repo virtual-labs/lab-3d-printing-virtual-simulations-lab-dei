@@ -101,9 +101,9 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.6.0",
-  "exp_name": "Simulation of Powder Binding / Jetting Process",
-  "exp_short_name": "simulation-powder-binding",
+  "version": "v1.7.0",
+  "exp_name": "Simulation of Post-processing in Additive manufacturing",
+  "exp_short_name": "simulation-post-processing",
   "production": true,
   "current_item": {
     "item": "feedback",
