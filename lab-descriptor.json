@@ -79,6 +79,13 @@
       "repo": "https://github.com/virtual-labs/exp-simulation-powder-binding-dei",
       "tag": "v1.0.1",
       "deploy": true
+    },
+    {
+      "name": "Simulation of Post-processing in Additive manufacturing",
+      "short-name": "simulation-post-processing",
+      "repo": "https://github.com/virtual-labs/exp-simulation-post-processing-dei",
+      "tag": "v1.0.1",
+      "deploy": true
     }
   ],
   "targetAudience": {
