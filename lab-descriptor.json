@@ -86,7 +86,15 @@
       "repo": "https://github.com/virtual-labs/exp-simulation-post-processing-dei",
       "tag": "v1.1.0",
       "deploy": true
+    },
+    {
+      "name": "Simulation of Pre-processing in Additive manufacturing",
+      "short-name": "simulation-additive-manufacturing",
+      "repo": "https://github.com/virtual-labs/exp-simulation-additive-manufacturing-dei",
+      "tag": "v1.1.0",
+      "deploy": true
     }
+
   ],
   "targetAudience": {
     "UG": [
