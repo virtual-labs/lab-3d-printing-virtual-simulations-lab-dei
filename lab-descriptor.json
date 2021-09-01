@@ -91,7 +91,7 @@
       "name": "Simulation of Pre-processing in Additive manufacturing",
       "short-name": "simulation-additive-manufacturing",
       "repo": "https://github.com/virtual-labs/exp-simulation-additive-manufacturing-dei",
-      "tag": "V1.1.1",
+      "tag": "v1.1.1",
       "deploy": true
     }
   ],
