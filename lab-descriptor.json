@@ -94,7 +94,6 @@
       "tag": "v1.1.0",
       "deploy": true
     }
-
   ],
   "targetAudience": {
     "UG": [
@@ -109,9 +108,9 @@
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.7.0",
-  "exp_name": "Simulation of Post-processing in Additive manufacturing",
-  "exp_short_name": "simulation-post-processing",
+  "version": "v1.8.0",
+  "exp_name": "Simulation of Pre-processing in Additive manufacturing",
+  "exp_short_name": "simulation-additive-manufacturing",
   "production": true,
   "current_item": {
     "item": "feedback",
