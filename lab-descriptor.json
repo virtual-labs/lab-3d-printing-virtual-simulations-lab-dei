@@ -103,12 +103,12 @@
       "MS/Ph. D. Beginners in Mechanical Engineering, Electrical Engineering and Civil Engineering."
     ]
   },
-  "objective": " 1  Students will be able to  Identify and describe the function of different parts of the 3D printer. 2. Students will be able to: Use the simulator & assemble the different parts of the 3D printer. 3. Students will be able to: Realize the operation of the 3D printer for different parameters given by the student and can check the effect of the different parameter on the performance of the printer. 4. Students will be able to: Build a given 3D printer by using the different parts available with the students. This will help them to learn the assembly without actually destructing the parts. 5. Students will be able to: answer the questions related to part functioning and the assembly of the 3D printer ",
+  "objective": "1. Students will be able to  Identify and describe the function of different parts of the 3D printer.</br></br>2. Students will be able to: Use the simulator & assemble the different parts of the 3D printer.</br></br>3. Students will be able to: Realize the operation of the 3D printer for different parameters given by the student and can check the effect of the different parameter on the performance of the printer.</br></br>4. Students will be able to: Build a given 3D printer by using the different parts available with the students. This will help them to learn the assembly without actually destructing the parts.</br></br>5. Students will be able to: answer the questions related to part functioning and the assembly of the 3D printer ",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of 3D Printing.",
     "universities": ["Universities with Mechanical Engineering"]
   },
-  "version": "v1.10.0",
+  "version": "v1.11.0",
   "exp_name": "Simulation of Pre-processing in Additive manufacturing",
   "exp_short_name": "simulation-additive-manufacturing",
   "production": true,
