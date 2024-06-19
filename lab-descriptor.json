@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
   "lab": "3D Printing Virtual Simulation Lab",
+  "lab_display_name": "3D Printing Virtual Simulation Lab",
   "phase": 3,
   "deployLab": true,
   "collegeName": "DLBG",
